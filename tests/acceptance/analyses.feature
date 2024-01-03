@@ -6,6 +6,6 @@ Feature: Analyses
 
         Examples:
         | weight | height | bmi_analyzation |
-        |   40   |  180   |   UNDERWEIGHL   |
+        |   40   |  180   |   UNDERWEIGHT   |
         |   74   |  176   |     HEALTHY     |
         |   90   |  176   |   OVERWEIGHT    |
